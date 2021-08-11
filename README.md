@@ -5,6 +5,8 @@ Business analysis is a research discipline of identifying business needs and det
 
 This GitHub Project is to provide educators and educational institutions to document and discuss educational use cases for using Second Life in instructional development and cirriculums. This project will also provide for a tracking mechanism for once a use case progresses from a use case to a feature request of Linden Research for consideration as part of future releases.
 
+To add a new use case to the project, please add a new ISSUE. 
+
 This project is being run and managed by Rockcliffe University Consortium (https://www.urockcliffe.com). Please considering joining our organization to help support the development of new methods, networking, and certifications in online education.
 
 References 
