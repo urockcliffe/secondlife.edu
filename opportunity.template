@@ -1,19 +1,20 @@
 OPPORTUNITY FOR CONSIDERATION
 
 How to Use
-    This is a high-level table of contents for submitting an OPPORTUNITY FOR CONSIDERATION in the issues section. 
-    Cut / Paste to a new issue
-    Note the # symbols represent the heading style when it appears as the first character in the row (e.g. # = H1, ## = H2, etc..)
-    Select Label from the options on the right and apply the "opportunity" label to the issue
+- This is a high-level table of contents for submitting an OPPORTUNITY FOR CONSIDERATION in the issues section. 
+- Cut / Paste to a new issue
+- Note the # symbols represent the heading style when it appears as the first character in the row (e.g. # = H1, ## = H2, etc..)
+- For other editing / formatting options please see https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- Select Label from the options on the right and apply the "opportunity" label to the issue
 
 Table of Contents
 -----------------
 # Executive Summary
-    - breifly summarize the following
-        - Need
-        - Opportunity
-        - Proposal Approach
-        - Key Benefits
+- breifly summarize the following
+  - Need
+  - Opportunity
+  - Proposal Approach
+  - Key Benefits
 
 # Background / Context
 ## Needs Analysis
@@ -42,14 +43,14 @@ Table of Contents
 ## Risks / Concerns
 
 # Concept of Operations (optional)
-    - Group Operations using headings by Subject (H2) and/or Action (H3) as needed
-    - State what the product/service will be used for and how it will work
-        - Describe the requirement in terms of tasks, standards, or targets to be met
-        - Include the concept of maintenance and support where necessary.						
+- Group Operations using headings by Subject (H2) and/or Action (H3) as needed
+- State what the product/service will be used for and how it will work
+  - Describe the requirement in terms of tasks, standards, or targets to be met
+  - Include the concept of maintenance and support where necessary.						
 
 # High-Level Requirements (optional)
-    - Group requirements using headings by Subject (H2) and/or Action (H3) as needed
-    - for each requirement please specify
-        - Mandatory / Alternative / Optional
-        - Dependencies (if any)
-        - Assumptions / Constraints
+- Group requirements using headings by Subject (H2) and/or Action (H3) as needed
+- for each requirement please specify
+  - Mandatory / Alternative / Optional
+  - Dependencies (if any)
+  - Assumptions / Constraints
