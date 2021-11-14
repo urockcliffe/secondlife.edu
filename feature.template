@@ -1,0 +1,23 @@
+FEATURE REQUEST FOR CONSIDERATION
+
+How to Use
+    This is a high-level table of contents for submitting a FEATURE REQUEST in the issues section. 
+    Cut / Paste to a new issue
+    Please replace H1, H2, and H3 with the appropriate heading styles in your final version
+    Select Label from the options on the right and apply the "feature request" label to the issue
+    
+
+Table of Contents
+-----------------
+H1: How would you like the feature to work?
+    H2: Functional Requirements
+    H2: Limitations
+    H2: Assumptions
+    H2: Risk / Concerns
+H1: Why is this feature important to you? How would it benefit the community?
+    H2: Use Cases
+        H3: Use Case Title (optional)
+        H3: Use Case Title (optional)
+    H2: Core Issues
+    H2: Impact
+    
