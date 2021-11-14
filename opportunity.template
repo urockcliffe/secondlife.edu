@@ -3,40 +3,51 @@ OPPORTUNITY FOR CONSIDERATION
 How to Use
     This is a high-level table of contents for submitting an OPPORTUNITY FOR CONSIDERATION in the issues section. 
     Cut / Paste to a new issue
-    Please replace H1, H2, and H3 with the appropriate heading styles in your final version
+    Note the # symbols represent the heading style when it appears as the first character in the row (e.g. # = H1, ## = H2, etc..)
     Select Label from the options on the right and apply the "opportunity" label to the issue
 
 Table of Contents
 -----------------
-H1: Executive Summary
+# Executive Summary
     - breifly summarize the following
         - Need
         - Opportunity
         - Proposal Approach
         - Key Benefits
-H1: Background / Context
-    H2: Needs Analysis
-        H3: What works well
-        H3: What needs Improvement
-        H3: What needs Depreciation
-    H2: Opportunity
-    H2: How does the opportunity fit the need 
-    H2: Key Benefits
-H1: Proposal
-    H2: Approach
-    H2: Community Impacts
-        H3: Education Community
-        H3: General Community
-        H3: Linden Lab
-    H2: Limitations 
-    H2: Assumptions
-    H2: Risks / Concerns
-H3: Concept of Operations (optional)
+
+# Background / Context
+## Needs Analysis
+### What works well
+### What needs Improvement
+### What needs Depreciation
+
+## Opportunity
+
+## How does the opportunity fit the need 
+
+## Key Benefits
+
+# Proposal
+## Approach
+
+## Community Impacts
+### Education Community
+### General Community
+### Linden Lab
+
+## Limitations 
+
+## Assumptions
+
+## Risks / Concerns
+
+# Concept of Operations (optional)
     - Group Operations using headings by Subject (H2) and/or Action (H3) as needed
     - State what the product/service will be used for and how it will work
         - Describe the requirement in terms of tasks, standards, or targets to be met
         - Include the concept of maintenance and support where necessary.						
-H3: High-Level Requirements (optional)
+
+# High-Level Requirements (optional)
     - Group requirements using headings by Subject (H2) and/or Action (H3) as needed
     - for each requirement please specify
         - Mandatory / Alternative / Optional
