@@ -9,6 +9,8 @@ To add a new use case to the project, please add a new ISSUE.
 
 This project is being run and managed by Rockcliffe University Consortium (https://www.urockcliffe.com). Please considering joining our organization to help support the development of new methods, networking, and certifications in online education.
 
+Note: Where hyperlinks are available, you must use either CTRL+Left Click on the link, or right click and select "Open in New Tab", in order for the link to open in a new tab. Otherwise github assumes the link to open in the current window.
+
 References 
 (1) https://en.wikipedia.org/wiki/Business_analysis
  
